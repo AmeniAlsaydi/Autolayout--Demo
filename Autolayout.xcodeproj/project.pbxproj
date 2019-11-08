@@ -13,6 +13,7 @@
 		B7B33727237475D500BDEF2F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7B33725237475D500BDEF2F /* Main.storyboard */; };
 		B7B33729237475D600BDEF2F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B7B33728237475D600BDEF2F /* Assets.xcassets */; };
 		B7B3372C237475D600BDEF2F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7B3372A237475D600BDEF2F /* LaunchScreen.storyboard */; };
+		B7B33734237492FA00BDEF2F /* RoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7B33733237492FA00BDEF2F /* RoundedButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B7B33728237475D600BDEF2F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B7B3372B237475D600BDEF2F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B7B3372D237475D600BDEF2F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B7B33733237492FA00BDEF2F /* RoundedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B7B3371F237475D500BDEF2F /* AppDelegate.swift */,
 				B7B33721237475D500BDEF2F /* SceneDelegate.swift */,
 				B7B33723237475D500BDEF2F /* ViewController.swift */,
+				B7B33733237492FA00BDEF2F /* RoundedButton.swift */,
 				B7B33725237475D500BDEF2F /* Main.storyboard */,
 				B7B33728237475D600BDEF2F /* Assets.xcassets */,
 				B7B3372A237475D600BDEF2F /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				B7B33724237475D500BDEF2F /* ViewController.swift in Sources */,
 				B7B33720237475D500BDEF2F /* AppDelegate.swift in Sources */,
 				B7B33722237475D500BDEF2F /* SceneDelegate.swift in Sources */,
+				B7B33734237492FA00BDEF2F /* RoundedButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
